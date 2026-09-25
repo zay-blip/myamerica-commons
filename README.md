@@ -1,17 +1,15 @@
-# MyAmerica Commons
+STOP.
 
-Public Obsidian vault for MyAmerica.WTF.
+Check the source.
 
-**Not The Barn.** Private law stays in `zay-blip/myamerica-barn`.
-**Not Road Vault.** Phone sphere stays private.
-**Not Meridian.**
+Nothing is to go in this file without permission from Isaiah, Zay.
+Absolute zero.
 
-Vault folder: `The Commons/`
+This is not the Barn.
+This is different.
+This is public facing.
 
-Public notes only: mission, problems, solutions.
+No unauthorized entries whatsoever.
 
-YAML gate: `visibility: public` on every note. If a note cannot be public, it does not go here.
-
-Host plan: Quartz on a staging URL first. Custom domain later only when Zay says ship.
-
-No keys. No trade. No Live YES in this repo.
+See the operating agreement in the Barn for filing instructions and rule sets.
+Do not file anything without Zay's authority.
